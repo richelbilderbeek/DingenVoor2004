@@ -6,7 +6,7 @@ walking from the soundtable to the piano.
 ![Dingen Voor 2004 coverart](CD02_Coverart.png)
 
  * [Download the complete CD 'Dingen Voor 2004' (zip)](CD02_All.zip)
- * Down the booklet of 'Dingen voor 2004 [pdf](CD02_Booklet.doc) [odt](CD02_Booklet.doc) [doc](CD02_Booklet.doc)
+ * Down the booklet of 'Dingen voor 2004: [pdf](CD02_Booklet.pdf), [odt](CD02_Booklet.odt), [doc](CD02_Booklet.doc)
 
 #|Title|OGG|MP3
 ---|---|---|---
