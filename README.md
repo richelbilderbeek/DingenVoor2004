@@ -19,3 +19,6 @@ walking from the soundtable to the piano.
 07 | Russisch Liedje | [here](CD02_07RussischLiedje.ogg) | [here](CD02_07RussischLiedje.mp3)
 08 | [Wooloo Mooloo](https://github.com/richelbilderbeek/music/blob/master/WoolooMooloo.md) | [here](CD02_08WoolooMooloo.ogg) | [here](CD02_08WoolooMooloo.mp3)
 
+## External links
+
+ * [Richel Bilderbeek's music](https://github.com/richelbilderbeek/music)
