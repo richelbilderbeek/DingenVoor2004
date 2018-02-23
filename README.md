@@ -10,7 +10,7 @@ walking from the soundtable to the piano.
 
 [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
 
-Title | OGG | MP3
+Title|OGG|MP3
 ---|---|---
 01. [Al Heb Je Blauw Haar](https://github.com/richelbilderbeek/music/blob/master/AlHebJeBlauwHaar.md) | [here](CD02_01AlHebJeBlauwHaar.ogg) | [here](CD02_01AlHebJeBlauwHaar.mp3)
 02. [Come Home Darling](https://github.com/richelbilderbeek/music/blob/master/ComeHomeDarling.md) | [here](CD02_02ComeHomeDarling.ogg) | [here](CD02_02ComeHomeDarling.mp3)
