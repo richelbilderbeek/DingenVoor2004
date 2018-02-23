@@ -3,13 +3,10 @@
 My first solo release and a terrible recording. Most songs start with me
 walking from the soundtable to the piano.
 
-![Dingen Voor 2004 coverart](CD02_Coverart.PNG)
+![Dingen Voor 2004 coverart](CD02_Coverart.png)
 
  * [Download the complete CD 'Dingen Voor 2004' (zip)](CD02_All.zip)
- * [View the booklet of 'Dingen voor 2004'](CD02_Booklet.doc)
-
-[![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-
+ * Down the booklet of 'Dingen voor 2004 [pdf](CD02_Booklet.doc) [odt](CD02_Booklet.doc) [doc](CD02_Booklet.doc)
 
 #|Title|OGG|MP3
 ---|---|---|---
